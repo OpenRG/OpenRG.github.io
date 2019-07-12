@@ -58,3 +58,15 @@ hr{
   height: 70px; /*same height as header*/
   margin-top: -70px; /*same height as header*/
   visibility: hidden;
+}
+@media(min-width: 900px){
+  .picture-align{
+    text-align: center;
+  }
+}
+@media(max-width: 900px){
+  .picture-align{
+    text-align: left;
+    padding-bottom: 20px;
+  }
+}
