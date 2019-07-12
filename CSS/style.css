@@ -61,7 +61,7 @@ hr{
 }
 @media(min-width: 900px){
   .picture-align{
-    text-align: center;
+    text-align: -webkit-center;
   }
 }
 @media(max-width: 900px){
