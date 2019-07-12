@@ -1,0 +1,60 @@
+body{
+	padding-top: 70px;
+}
+.card-link-home{
+    color: black;
+}
+.card-header-home{
+    background-color:#759cd7;
+    color: #f2f2f2;
+}
+a.card-link-home:hover{
+    color: black;
+    text-decoration: none;
+}
+.card-home:hover{
+    background-color: #dcdfe8;
+}
+.card-home{
+	background-color:#f2f2f2;
+}
+.navbar{
+    background-color: white;
+    border-bottom: solid thin gray;
+    box-shadow: 0px 1px 0px #c7c8c9;
+    /*margin-bottom: 70px;*/
+}
+.glance{
+	color:darkgray;
+	text-align: center;
+}
+.jumbotron{
+	background-image:url('../imgs/banner.svg');
+}
+hr{
+	border-top:2px solid darkgray;
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%;*/
+}
+
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.anchor{
+  display: block;
+  height: 70px; /*same height as header*/
+  margin-top: -70px; /*same height as header*/
+  visibility: hidden;
