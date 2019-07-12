@@ -4,6 +4,9 @@ body{
 .card-link-home{
     color: black;
 }
+.plain-link{
+  color:black;
+}
 .card-header-home{
     background-color:#759cd7;
     color: #f2f2f2;
@@ -11,6 +14,9 @@ body{
 a.card-link-home:hover{
     color: black;
     text-decoration: none;
+}
+a.plain-link:hover{
+  color:black;
 }
 .card-home:hover{
     background-color: #dcdfe8;
