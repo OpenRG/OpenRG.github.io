@@ -90,3 +90,8 @@ a.bio-card:hover{
   color: black;
   background-color:#ededed;
 }
+@media(max-width: 900px){
+  .expert-marg{
+    margin-right:500px !important;
+  }
+}
