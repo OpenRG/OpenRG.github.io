@@ -66,6 +66,11 @@ hr{
   visibility: hidden;
 }
 @media(min-width: 900px){
+  .expert-border{
+    border-left: thin solid lightgray;
+  }
+}
+@media(min-width: 900px){
   .picture-align{
     text-align: -webkit-center;
   }
@@ -75,4 +80,13 @@ hr{
     text-align: left;
     padding-bottom: 20px;
   }
+}
+.bio-card{
+  text-decoration: none;
+  color: black;
+}
+a.bio-card:hover{
+  text-decoration: none;
+  color: black;
+  background-color:#ededed;
 }
