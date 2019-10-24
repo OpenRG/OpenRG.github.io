@@ -56,8 +56,8 @@ hr{
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+  /* background: #55ACEE; */
+  color: #55ACEE;
 }
 .anchor{
   display: block;
