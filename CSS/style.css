@@ -8,7 +8,7 @@ body{
   color:black;
 }
 .card-header-home{
-    background-color:#759cd7;
+    background-color:#043927ff;
     color: #f2f2f2;
 }
 a.card-link-home:hover{
@@ -34,9 +34,9 @@ a.plain-link:hover{
 	color:darkgray;
 	text-align: center;
 }
-.jumbotron{
+/* .jumbotron{
 	background-image:url('../imgs/banner.svg');
-}
+} */
 hr{
 	border-top:2px solid darkgray;
 }
